@@ -1,0 +1,35 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://constraint-test/0007-in.jsonld",
+  "metadata": [
+    {
+      "label": "Author",
+      "value": "Anne Author"
+    },
+    {
+      "label": "Published",
+      "value": [
+        {
+          "@value": "Paris, circa 1400",
+          "@language": "en"
+        },
+        {
+          "@value": "Paris, environ 1400",
+          "@language": "fr"
+        }
+      ]
+    },
+    {
+      "label": "Notes",
+      "value": [
+        "Text of note 1",
+        "Text of note 2"
+      ]
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"http://example.org/db/1.html\">Some Collection</a></span>"
+    }
+  ]
+}

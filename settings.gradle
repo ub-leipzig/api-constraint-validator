@@ -1,0 +1,3 @@
+rootProject.name = 'api-constraint-validator'
+include 'validator'
+include 'vocabulary'

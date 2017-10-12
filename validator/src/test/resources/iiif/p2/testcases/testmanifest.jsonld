@@ -1,0 +1,200 @@
+{
+  "@context": "http://ubleipzig.de/test-suite/context.jsonld",
+  "@id": "",
+  "@type": "mf:Manifest",
+  "name": "sc:ManifestConstraints",
+  "description": "Test Cases fail constraints test",
+  "baseIri": "http://ubleipzig.de/test-suite/tests/",
+  "sequence": [
+    {
+      "@id": "#t0001",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "ManifestMustHaveType",
+      "purpose": "Validates Type",
+      "input": "0001-in.jsonld"
+    },
+    {
+      "@id": "#t0002",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "ManifestIdMustEqualTestResource",
+      "purpose": "Validates Identifiers",
+      "input": "0002-in.jsonld"
+    },
+    {
+      "@id": "#t0003",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "ManifestIdIsNotIRI",
+      "purpose": "Validates Identifiers",
+      "input": "0003-in.jsonld"
+    },
+    {
+      "@id": "#t0004",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:DescriptiveProperties"
+      ],
+      "name": "ManifestMustHaveLabel",
+      "purpose": "Validates Required Property",
+      "input": "0004-in.jsonld"
+    },
+    {
+      "@id": "#t0005",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:DescriptiveProperties"
+      ],
+      "name": "ManifestShouldHaveThumbnail",
+      "purpose": "Validates Recommended Property",
+      "input": "0005-in.jsonld"
+    },
+    {
+      "@id": "#t0006",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:DescriptiveProperties"
+      ],
+      "name": "ManifestShouldHaveDescription",
+      "purpose": "Validates Recommended Property",
+      "input": "0006-in.jsonld"
+    },
+    {
+      "@id": "#t0007",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:DescriptiveProperties"
+      ],
+      "name": "ManifestShouldHaveMetadata",
+      "purpose": "Validates Recommended Property",
+      "input": "0007-in.jsonld"
+    },
+    {
+      "@id": "#t0008",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:Manifest"
+      ],
+      "name": "ManifestMayHaveStructures",
+      "purpose": "Validates Optional Property",
+      "input": "0008-in.jsonld"
+    },
+    {
+      "@id": "#t0009",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "RangeIdMustBeIRI",
+      "purpose": "Validates Identifier",
+      "input": "0009-in.jsonld"
+    },
+    {
+      "@id": "#t0010",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:Manifest"
+      ],
+      "name": "hasSequenceMustBePresent",
+      "purpose": "Validates Required Property",
+      "input": "0010-in.jsonld"
+    },
+    {
+      "@id": "#t0011",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "SequenceMustHaveType",
+      "purpose": "Validates Required Property",
+      "input": "0011-in.jsonld"
+    },
+    {
+      "@id": "#t0012",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "SequenceIdMustBeIRI",
+      "purpose": "Validates Identfiers",
+      "input": "0012-in.jsonld"
+    },
+    {
+      "@id": "#t0013",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:DescriptiveProperties"
+      ],
+      "name": "SequenceMayHaveStartCanvas",
+      "purpose": "Validates Optional Property",
+      "input": "0013-in.jsonld"
+    },
+    {
+      "@id": "#t0014",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:Linking Properties"
+      ],
+      "name": "MultipleSequencesMustHaveLabel",
+      "purpose": "Validates Required Property",
+      "input": "0014-in.jsonld"
+    },
+    {
+      "@id": "#t0015",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:Sequence"
+      ],
+      "name": "SequenceMustHaveCanvas",
+      "purpose": "Validates Required Property",
+      "input": "0015-in.jsonld"
+    },
+    {
+      "@id": "#t0016",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "CanvasIdMustBeIRI",
+      "purpose": "Validates Identifiers",
+      "input": "0016-in.jsonld"
+    },
+    {
+      "@id": "#t0017",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "CanvasShouldBeDereferenceable",
+      "purpose": "Validates API",
+      "input": "0017-in.jsonld"
+    },
+    {
+      "@id": "#t0018",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:TechnicalProperties"
+      ],
+      "name": "CanvasesMustHaveType",
+      "purpose": "Validates Required Property",
+      "input": "0018-in.jsonld"
+    },
+    {
+      "@id": "#t0019",
+      "@type": [
+        "jld:PositiveEvaluationTest",
+        "sc:DescriptiveProperties"
+      ],
+      "name": "CanvasesMustHaveLabel",
+      "purpose": "Validates Required Property",
+      "input": "0019-in.jsonld"
+    }
+  ]
+}

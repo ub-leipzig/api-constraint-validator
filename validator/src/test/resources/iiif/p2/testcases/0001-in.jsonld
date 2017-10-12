@@ -1,0 +1,6 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://constraint-test/0001-in.jsonld",
+  "label": "Jesu Christo Coelesti Nostro Medico Sacrum"
+}

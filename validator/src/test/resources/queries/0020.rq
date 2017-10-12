@@ -1,0 +1,13 @@
+PREFIX sc: <http://iiif.io/api/presentation/2#>  
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX exif: <http://www.w3.org/2003/12/exif/ns#>
+SELECT (COUNT(?canvas) as ?canvascount) ?height (COUNT(?height) as ?heightcount)
+?width (COUNT  (?width) as ?widthcount)
+WHERE {?sequence sc:hasCanvases ?canvaslist .
+?canvaslist rdf:rest* ?mid .
+?mid rdf:first ?canvas .
+?mid rdf:rest ?last .
+?canvas sc:hasImageAnnotations ?imageid .
+?canvas exif:height ?height .
+?canvas exif:width ?width} GROUP BY ?height ?width

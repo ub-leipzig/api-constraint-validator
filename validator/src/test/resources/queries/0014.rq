@@ -1,0 +1,7 @@
+PREFIX sc: <http://iiif.io/api/presentation/2#>  
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT (COUNT(?label) AS ?labelcount)
+WHERE { ?manifest sc:hasSequences ?seqid .
+?seqid rdf:first ?sequence .
+?sequence rdfs:label ?label}

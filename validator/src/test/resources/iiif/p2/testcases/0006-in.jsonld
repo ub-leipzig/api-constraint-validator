@@ -1,0 +1,6 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://constraint-test/0006-in.jsonld",
+  "description": "A longer description of this example book. It should give some real information."
+}

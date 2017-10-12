@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://constraint-test/0015-in.jsonld",
+  "sequences": [
+    {
+      "@id": "http://example.org/iiif/book1/sequence/normal",
+      "@type": "sc:Sequence",
+      "startCanvas": "http://example.org/iiif/book1/canvas/p2",
+      "label": "Current Page Order",
+      "canvases": [
+        {
+          "@id": "http://example.org/iiif/book1/canvas/p1"
+        }
+      ]
+    }
+  ]
+}

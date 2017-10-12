@@ -1,0 +1,9 @@
+PREFIX sc: <http://iiif.io/api/presentation/2#>  
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX oa: <http://www.w3.org/ns/oa#>
+SELECT ?type
+WHERE {?canvas sc:hasImageAnnotations ?imageid .
+?imageid rdf:first ?resid .
+?resid oa:hasBody ?body .
+?body rdf:type ?type}

@@ -1,0 +1,11 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://constraint-test/0012-in.jsonld",
+  "sequences": [
+    {
+      "@id": "http://example.org/iiif/book1/sequence/normal",
+      "@type": "sc:Sequence"
+    }
+  ]
+}

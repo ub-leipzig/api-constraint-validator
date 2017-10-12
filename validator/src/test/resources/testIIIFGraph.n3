@@ -1,0 +1,204 @@
+<https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000001.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000002.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000003.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000004.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000005.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000006.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000007.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> <http://purl.org/dc/elements/1.1/format> "image/jpx" .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> <http://rdfs.org/sioc/services#has_service> <https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000008.jpx> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Image> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/1> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b20 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/1> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/1> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/1> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/2> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b21 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/2> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/2> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/2> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/3> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b22 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/3> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/3> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/3> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/4> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b23 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/4> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/4> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/4> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/5> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b24 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/5> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/5> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/5> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/6> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b25 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/6> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/6> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/6> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/7> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b26 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/7> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/7> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/7> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/8> <http://iiif.io/api/presentation/2#hasImageAnnotations> _:b27 .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Canvas> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/8> <http://www.w3.org/2000/01/rdf-schema#label> " - " .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/8> <http://www.w3.org/2003/12/exif/ns#height> "2130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/canvas/8> <http://www.w3.org/2003/12/exif/ns#width> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://iiif.io/api/presentation/2#attributionLabel> "Provided by Leipzig University" .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://iiif.io/api/presentation/2#hasSequences> _:b28 .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://iiif.io/api/presentation/2#metadataLabels> _:b29 .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://purl.org/dc/terms/relation> <https://digital.ub.uni-leipzig.de/object/viewid/0000004057> .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://purl.org/dc/terms/relation> <https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Manifest> .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://www.w3.org/2000/01/rdf-schema#label> "Ein Hundert und fÃ¼nff- und zwantzig JÃ¤hriges VerzeichnÃ¼ÃŸ/ Derer Personen/ welche von dem 1555sten/ biÃŸ auff das 1680ste Jahr Christi/ von Jahr zu Jahr/ unter der Kaiserl. und KÃ¶niglichen Stadt BreÃŸlau .... selig entschlaffen/ und verstorben; Geboren und getaufft; Wie auch .... curiret, geheilet/ und gesund worden sind" .
+<https://iiif.ub.uni-leipzig.de/0000004057/manifest.json> <http://xmlns.com/foaf/0.1/logo> <https://iiif.ub.uni-leipzig.de/ubl-logo.png> .
+<https://iiif.ub.uni-leipzig.de/0000004057/sequence/1> <http://iiif.io/api/presentation/2#hasCanvases> _:b41 .
+<https://iiif.ub.uni-leipzig.de/0000004057/sequence/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Sequence> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000001.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000002.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000003.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000004.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000005.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000006.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000007.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+<https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0040/0000004057/00000008.jpx> <http://usefulinc.com/ns/doap#implements> <http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1> .
+_:b0 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000001.jpx> .
+_:b0 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b1 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000002.jpx> .
+_:b1 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "047268719" .
+_:b10 <http://www.w3.org/2000/01/rdf-schema#label> "Source PPN (SWB)" .
+_:b11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "VD17 15:741566B" .
+_:b11 <http://www.w3.org/2000/01/rdf-schema#label> "VD17" .
+_:b12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "VD17" .
+_:b12 <http://www.w3.org/2000/01/rdf-schema#label> "Collection" .
+_:b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "01A-2017-5265" .
+_:b13 <http://www.w3.org/2000/01/rdf-schema#label> "Call number" .
+_:b14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Leipzig University Library" .
+_:b14 <http://www.w3.org/2000/01/rdf-schema#label> "Owner" .
+_:b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hoffmann, Caspar [GNDNR:1135422303]" .
+_:b15 <http://www.w3.org/2000/01/rdf-schema#label> "Author" .
+_:b16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "BreÃŸlau" .
+_:b16 <http://www.w3.org/2000/01/rdf-schema#label> "Place of publication" .
+_:b17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "1679" .
+_:b17 <http://www.w3.org/2000/01/rdf-schema#label> "Date of publication" .
+_:b18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "GrÃ¼nder" .
+_:b18 <http://www.w3.org/2000/01/rdf-schema#label> "Publisher" .
+_:b19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "8 ungezÃ¤hlte Seiten" .
+_:b19 <http://www.w3.org/2000/01/rdf-schema#label> "Physical description" .
+_:b2 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000003.jpx> .
+_:b2 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b0 .
+_:b20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b1 .
+_:b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b2 .
+_:b22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b3 .
+_:b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b4 .
+_:b24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b5 .
+_:b25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b6 .
+_:b26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b7 .
+_:b27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/sequence/1> .
+_:b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b8 .
+_:b29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b30 .
+_:b3 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000004.jpx> .
+_:b3 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b9 .
+_:b30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b31 .
+_:b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b10 .
+_:b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b32 .
+_:b32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b11 .
+_:b32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b33 .
+_:b33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b12 .
+_:b33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b34 .
+_:b34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b13 .
+_:b34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b35 .
+_:b35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b14 .
+_:b35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b36 .
+_:b36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b15 .
+_:b36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b37 .
+_:b37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b16 .
+_:b37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b38 .
+_:b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b17 .
+_:b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b39 .
+_:b39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b18 .
+_:b39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b40 .
+_:b4 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000005.jpx> .
+_:b4 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b19 .
+_:b40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/1> .
+_:b41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b42 .
+_:b42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/2> .
+_:b42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b43 .
+_:b43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/3> .
+_:b43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b44 .
+_:b44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/4> .
+_:b44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b45 .
+_:b45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/5> .
+_:b45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b46 .
+_:b46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/6> .
+_:b46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b47 .
+_:b47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/7> .
+_:b47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b48 .
+_:b48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://iiif.ub.uni-leipzig.de/0000004057/canvas/8> .
+_:b48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b5 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000006.jpx> .
+_:b5 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b6 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000007.jpx> .
+_:b6 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b7 <http://www.w3.org/ns/oa#hasBody> <https://iiif.ub.uni-leipzig.de/0000004057/00000008.jpx> .
+_:b7 <http://www.w3.org/ns/oa#motivatedBy> <http://iiif.io/api/presentation/2#painting> .
+_:b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "4325" .
+_:b8 <http://www.w3.org/2000/01/rdf-schema#label> "Kitodo" .
+_:b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "urn:nbn:de:bsz:15-0008-139215" .
+_:b9 <http://www.w3.org/2000/01/rdf-schema#label> "URN" .

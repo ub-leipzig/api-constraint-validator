@@ -1,0 +1,5 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://0003-in.jsonld"
+}

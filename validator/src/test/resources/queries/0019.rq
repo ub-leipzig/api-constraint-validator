@@ -1,0 +1,10 @@
+PREFIX sc: <http://iiif.io/api/presentation/2#>  
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT (COUNT(?canvas) as ?canvascount) (COUNT(?canvaslabel) as ?labelcount)
+WHERE {?sequence sc:hasCanvases ?canvaslist .
+?canvaslist rdf:rest* ?mid .
+?mid rdf:first ?canvas .
+?mid rdf:rest ?last .
+?canvas sc:hasImageAnnotations ?imageid .
+?canvas rdfs:label ?canvaslabel}

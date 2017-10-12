@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://constraint-test/0028-in.jsonld",
+  "sequences": [
+    {
+      "@id": "http://example.org/iiif/book1/sequence/normal",
+      "@type": "sc:Sequence",
+      "startCanvas": "http://example.org/iiif/book1/canvas/p2",
+      "label": "Current Page Order",
+      "canvases": [
+        {
+          "@id": "http://schema.org",
+          "@type": "sc:Canvas",
+          "height": 1000,
+          "width": 750,
+          "images": [
+            {
+              "resource": {
+                "@id": "http://example.org/iiif/book1/res/page3.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
